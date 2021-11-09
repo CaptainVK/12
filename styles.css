@@ -555,7 +555,7 @@ text-shadow: 2px 1px 1px #333;
 
 
  #footer{
-   height: 130px;
+   height: 100%;
    background-color: rgb(2, 2, 100);
    margin: 0 1rem;
    border-top: .3px solid #a4c9f5;
@@ -577,6 +577,7 @@ text-shadow: 2px 1px 1px #333;
     .official a {
       align-items: center;
       text-align: center;
+      font-size:1.1rem;
     }
     .fas{
       margin-left: 1rem;
